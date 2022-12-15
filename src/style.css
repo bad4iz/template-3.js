@@ -1,0 +1,9 @@
+#canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+body {
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+}
